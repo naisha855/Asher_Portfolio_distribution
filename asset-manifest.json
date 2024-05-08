@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Asher_Portfolio_distribution/static/css/main.9d41db42.css",
-    "main.js": "/Asher_Portfolio_distribution/static/js/main.27edb53c.js",
+    "main.css": "/Asher_Portfolio_distribution/static/css/main.da1039fc.css",
+    "main.js": "/Asher_Portfolio_distribution/static/js/main.036be40a.js",
     "static/js/453.205bf84c.chunk.js": "/Asher_Portfolio_distribution/static/js/453.205bf84c.chunk.js",
     "static/media/Contact_Profile.jpg": "/Asher_Portfolio_distribution/static/media/Contact_Profile.fed6d4d5901647b75c2e.jpg",
     "static/media/Profile3.jpg": "/Asher_Portfolio_distribution/static/media/Profile3.7644819830bdf456c387.jpg",
@@ -11,12 +11,12 @@
     "static/media/Contact_tel.png": "/Asher_Portfolio_distribution/static/media/Contact_tel.8765bbb69ae6e02eca3a.png",
     "static/media/Base.png": "/Asher_Portfolio_distribution/static/media/Base.f9d02f4fed41cfd72462.png",
     "index.html": "/Asher_Portfolio_distribution/index.html",
-    "main.9d41db42.css.map": "/Asher_Portfolio_distribution/static/css/main.9d41db42.css.map",
-    "main.27edb53c.js.map": "/Asher_Portfolio_distribution/static/js/main.27edb53c.js.map",
+    "main.da1039fc.css.map": "/Asher_Portfolio_distribution/static/css/main.da1039fc.css.map",
+    "main.036be40a.js.map": "/Asher_Portfolio_distribution/static/js/main.036be40a.js.map",
     "453.205bf84c.chunk.js.map": "/Asher_Portfolio_distribution/static/js/453.205bf84c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d41db42.css",
-    "static/js/main.27edb53c.js"
+    "static/css/main.da1039fc.css",
+    "static/js/main.036be40a.js"
   ]
 }
